@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="http://localhost:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
+#EXTINF:0 tvg-id="C141.246.ersatztv.org" channel-id="kSnDbtgg40GrnQyKnI0DlA" channel-number="141" CUID="kSnDbtgg40GrnQyKnI0DlA" tvg-chno="141" tvg-name="UFN: Urban Fantasy Network" tvg-logo="http://localhost:8409/iptv/logos/gen?text=UFN%3A+Urban+Fantasy+Network" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", UFN: Urban Fantasy Network
+http://localhost:8409/iptv/channel/141.ts
+#EXTINF:0 tvg-id="C142.247.ersatztv.org" channel-id="FZLEe8pyY0q_GAtIS6zwjw" channel-number="142" CUID="FZLEe8pyY0q_GAtIS6zwjw" tvg-chno="142" tvg-name="Dark Star TV" tvg-logo="https://github.com/biodermcq/GNJFLogos/blob/main/DarkStar.png?raw=true" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Dark Star TV
+http://localhost:8409/iptv/channel/142.ts
+#EXTINF:0 tvg-id="C143.248.ersatztv.org" channel-id="urXhgPp7c0i9nAXtXhdvFA" channel-number="143" CUID="urXhgPp7c0i9nAXtXhdvFA" tvg-chno="143" tvg-name="The Drama Zone" tvg-logo="http://localhost:8409/iptv/logos/gen?text=The+Drama+Zone" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", The Drama Zone
+http://localhost:8409/iptv/channel/143.ts
+#EXTINF:0 tvg-id="C144.249.ersatztv.org" channel-id="_bFin28miU-BYtcCADdu7w" channel-number="144" CUID="_bFin28miU-BYtcCADdu7w" tvg-chno="144" tvg-name="Sitcom Source" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Sitcom+Source" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Sitcom Source
+http://localhost:8409/iptv/channel/144.ts
+#EXTINF:0 tvg-id="C169.256.ersatztv.org" channel-id="E8dW3ZMOWkGBTk7A6nsztQ" channel-number="169" CUID="E8dW3ZMOWkGBTk7A6nsztQ" tvg-chno="169" tvg-name="Cartoon Climax" tvg-logo="http://localhost:8409/iptv/logos/C30158D9D46A73A8018F88D077621B00.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Cartoon Climax
+http://localhost:8409/iptv/channel/169.ts
+#EXTINF:0 tvg-id="C170.248.ersatztv.org" channel-id="c2FS78yiaUGJYbb_t3RVtA" channel-number="170" CUID="c2FS78yiaUGJYbb_t3RVtA" tvg-chno="170" tvg-name="Oishī Paradise" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Oish%C4%AB+Paradise" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Oishī Paradise
+http://localhost:8409/iptv/channel/170.ts
+#EXTINF:0 tvg-id="C172.250.ersatztv.org" channel-id="HfalFp2mlUqzbhcmludeCQ" channel-number="172" CUID="HfalFp2mlUqzbhcmludeCQ" tvg-chno="172" tvg-name="Shounen Assault" tvg-logo="http://localhost:8409/iptv/logos/gen?text=Shounen+Assault" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Shounen Assault
+http://localhost:8409/iptv/channel/172.ts
+#EXTINF:0 tvg-id="C173.251.ersatztv.org" channel-id="MOnfPsUN0U6_jN32t_J95Q" channel-number="173" CUID="MOnfPsUN0U6_jN32t_J95Q" tvg-chno="173" tvg-name="Harem Central" tvg-logo="https://github.com/biodermcq/GNJFLogos/blob/main/HC.png?raw=true" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Harem Central
+http://localhost:8409/iptv/channel/173.ts
